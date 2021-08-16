@@ -3,6 +3,7 @@ import React from 'react';
 import './App.css';
 import CC from './CC'
 import FC from './FC'
+import Parent from './Parent'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
 
     <CC/>
     <FC/>
+    <Parent />
   </div>
   );
 }
